@@ -20,6 +20,7 @@ int main(int argc, const char * argv[])
         
         // Display the value of myFraction
         NSLog(@"myFraction has a value of: ");
+        NSLog(@"i hav changed fr the practice of branching");
         [myCalcFraction display];
         
         
