@@ -19,7 +19,11 @@ int main(int argc, const char * argv[])
         [myCalcFraction setDenominator: 5];
         
         // Display the value of myFraction
+<<<<<<< HEAD
         NSLog(@"in master ");
+=======
+        NSLog(@"in develop ");
+>>>>>>> 72dc4904c006828a64a1dd14062dafd949b8928a
         NSLog(@"i hav changed fr the practice of branching");
         [myCalcFraction display];
         
